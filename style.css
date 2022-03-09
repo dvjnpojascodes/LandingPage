@@ -1,0 +1,167 @@
+html{
+    box-sizing: border-box;
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #1f2937;
+    color: #FFF;
+    padding: 15px 180px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10em;
+}
+
+nav .logo {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+nav .links {
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 8em;
+}
+
+.text {
+    width: 530px;
+}
+
+.main-text {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    font-weight: 200;
+    margin: 0 5em 2em 0;
+}
+.image {
+    width: 600px;
+    height: 250px;
+    background-color: rgb(147, 146, 146);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    color: #fff;
+    background-color: #3882f6;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+.random-info {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+h1 {
+    padding: 1em 0;
+    text-align: center;
+}
+.random-info div {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
+.box {
+    border: 3px solid #3882f6 ;
+    border-radius: 15px;
+}
+
+.random-info p {
+    padding-top: 1em;
+}
+
+.quote {
+    padding: 6em 20em;
+    margin-top: 10em;
+    background-color: #E5E7EB;
+}
+
+q {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.quote figcaption {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 90px 180px;
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    background-color: #3882f6;
+    color: #fff;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2em 5em;
+    border-radius: 5px;
+}
+
+.content .main-text {
+    font-size: 30px;
+}
+
+.content .sec-text {
+    font-weight: 100;
+    padding-top: 0.5em;
+}
+
+.content .sign-up {
+    border: 2px solid #fff;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 30px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #1f2937;
+    color: #fff;
+    padding: 1.3em 0;
+    font-weight: 100;
+    text-align: center;
+}
