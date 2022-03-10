@@ -4,11 +4,15 @@ This repo contains all the files needed for the Landing Page, an exercise for Od
 
 The following are the URLs for images featured on the webpage. Credits to all rightful owners.
 
-Photo by Thirdman from Pexels : https://www.pexels.com/photo/yellow-and-black-happy-birthday-to-you-5981783/
 
-Photo by Pixabay from Pexels: pexels.com/photo/yellow-sunflowers-54267/
+Photo by Merve Aydın: 
+https://unsplash.com/@viledaaa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText 
+
+https://unsplash.com/s/photos/strawberry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+  
 
 Photo by Cristina Matos-Albers: https://unsplash.com/@matosalbers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 
 Photo by Antonio Dillard from Pexels : https://www.pexels.com/photo/exciting-art-composition-on-yellow-background-4462780/
 
+Photo by Ruslan Rozanov from Pexels : https://www.pexels.com/photo/blond-woman-holding-face-in-hands-11373096/
